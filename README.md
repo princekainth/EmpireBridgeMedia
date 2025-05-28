@@ -22,19 +22,20 @@ Gemini™ is a semantic infrastructure protocol designed for the next generation
 | Memetic Kernel™        | Core subsystem for persistent, belief-weighted memory   |
 
 ---
+## Getting Started
 
-##  Getting Started
+### Install the protocol package (coming soon)
 
-bash
-# Install the protocol package (coming soon)
+```bash
 pip install gemini-protocol
 
-Basic Example:
-```python
+Basic Example
+
 from gemini import AgentCore
 
 agent = AgentCore(memory="sqlite", swarm_id="test_swarm")
 agent.run()
+
 
 Full developer docs, APIs, and tutorials are coming soon.
 
