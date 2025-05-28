@@ -30,7 +30,7 @@ Gemini™ is a semantic infrastructure protocol designed for the next generation
 pip install gemini-protocol
 
 Basic Example:
-  python
+```python
 from gemini import AgentCore
 
 agent = AgentCore(memory="sqlite", swarm_id="test_swarm")
