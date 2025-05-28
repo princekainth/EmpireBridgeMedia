@@ -1,3 +1,9 @@
+![Gemini™ Certified](https://img.shields.io/badge/Gemini™-Certified-009688)
+![RFC-GEMINI-0001](https://img.shields.io/badge/RFC--GEMINI--0001-Compliant-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 # Gemini™ Protocol
 
 > Building the foundation for agentic, autonomous, and swarm-capable AI systems.
