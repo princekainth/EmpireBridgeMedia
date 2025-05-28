@@ -25,7 +25,7 @@ Gemini™ is a semantic infrastructure protocol designed for the next generation
 
 ##  Getting Started
 
-```bash
+bash
 # Install the protocol package (coming soon)
 pip install gemini-protocol
 
