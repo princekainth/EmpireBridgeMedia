@@ -45,27 +45,27 @@ agent.run()
 ```
 Full developer docs, APIs, and tutorials are coming soon.
 
- Protocol Specification
+## Protocol Specification
 Gemini™ follows RFC-GEMINI-0001, defining the foundational behavior of spawning agents and swarm communication.
 
-Section	Feature
-3.1	Agent spawning lifecycle
-4.2	Swarm message format (protobuf schema)
-5.4	Memory persistence with WAL/SQLite
+## Section	Feature
+- 3.1	Agent spawning lifecycle
+- 4.2	Swarm message format (protobuf schema)
+- 5.4	Memory persistence with WAL/SQLite
 
-⚠ Only RFC-compliant systems will qualify for Gemini™ certification.
+## Only RFC-compliant systems will qualify for Gemini™ certification.
 
- Licensing & Trademarks
+## Licensing & Trademarks
 This project uses a dual license model:
 
-Code: MIT License (see LICENSE)
+- Code: MIT License (see LICENSE)
 
-Brand/Terms: Gemini™ is a registered trademark of Empire Bridge Media Inc.
+- Brand/Terms: Gemini™ is a registered trademark of Empire Bridge Media Inc.
 
- Commercial use of the Gemini™ brand, logo, or protocol name requires permission.
- Academic or open-source use is permitted under community terms (coming soon).
+- Commercial use of the Gemini™ brand, logo, or protocol name requires permission.
+- Academic or open-source use is permitted under community terms (coming soon).
 
-Attribution required:
+## Attribution required:
 
 “Built with the Gemini™ Protocol (Empire Bridge Media Inc., 2025)”
 
