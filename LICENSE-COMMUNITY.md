@@ -28,7 +28,7 @@ You must comply with all of the following:
 ---
 
 ### 4. Certification Eligibility
-Projects under this license may qualify for official Gemini™ certification and interoperability testing. Contact: `certify@ipbridge.co`
+Projects under this license may qualify for official Gemini™ certification and interoperability testing. Contact: `legal@ipbridge.co`
 
 ---
 
