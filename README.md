@@ -38,6 +38,6 @@ This repository supports the reference specification:
 
 ---
 
-## 🧬 Attribution
+##  Attribution
 
 This repository is part of the **Semantic Infrastructure Initiative** to define the language layer of next-generation artificial intelligence.
