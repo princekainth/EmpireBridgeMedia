@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Protocol Overview
+##  Protocol Overview
 
 Gemini™ enables the creation of next-generation agentic systems that:
 
@@ -15,7 +15,7 @@ Gemini™ enables the creation of next-generation agentic systems that:
 
 ---
 
-## 📄 RFC Compliance
+##  RFC Compliance
 
 This repository supports the reference specification:  
 **`RFC-GEMINI-0001: Gemini Protocol for Agentic Cognition and Swarm Autonomy`**  
@@ -23,7 +23,7 @@ This repository supports the reference specification:
 
 ---
 
-## ⚖️ Trademark Notice
+##  Trademark Notice
 
 > **Gemini™** is a registered trademark filed with the **Canadian Intellectual Property Office (CIPO)** by **Empire Bridge Media Inc.**  
 > Unauthorized commercial use of the Gemini™ brand or affiliated protocol terminology is prohibited and may result in enforcement.  
@@ -31,7 +31,7 @@ This repository supports the reference specification:
 
 ---
 
-## 📜 License
+##  License
 
 - Protocol: Open-source (MIT) for reference, implementation, and academic use.
 - Trademark: The name **Gemini™** remains protected and must be used under proper trademark attribution.
