@@ -126,4 +126,7 @@ Gemini™ is a registered trademark under Canadian IP law and protected internat
 
 Unauthorized use, imitation, or "passing off" will be subject to enforcement under Section 19.2 of the Canadian Trademarks Act.
 
+See [TRADEMARK.md](./TRADEMARK.md) for full usage policy.
+
+
 © 2025 Empire Bridge Media Inc. All rights reserved.
