@@ -45,7 +45,7 @@ agent.run()
 ```
 Full developer docs, APIs, and tutorials are coming soon.
 
-## Protocol Specification
+ Protocol Specification
 Gemini™ follows RFC-GEMINI-0001, defining the foundational behavior of spawning agents and swarm communication.
 
 Section	Feature
@@ -53,9 +53,9 @@ Section	Feature
 4.2	Swarm message format (protobuf schema)
 5.4	Memory persistence with WAL/SQLite
 
-Only RFC-compliant systems will qualify for Gemini™ certification.
+⚠ Only RFC-compliant systems will qualify for Gemini™ certification.
 
-## Licensing & Trademarks
+ Licensing & Trademarks
 This project uses a dual license model:
 
 Code: MIT License (see LICENSE)
@@ -69,7 +69,7 @@ Attribution required:
 
 “Built with the Gemini™ Protocol (Empire Bridge Media Inc., 2025)”
 
- ## Governance
+ Governance
 Gemini™ is maintained by the Semantic Infrastructure Initiative, with goals to:
 
 Maintain protocol integrity via RFC development
@@ -80,7 +80,7 @@ Engage with global AI standards communities
 
 Join our efforts: governance@ipbridge.co
 
-## Contributing
+ Contributing
 We accept PRs for:
 
 RFC-compliant features
@@ -93,22 +93,20 @@ Sign our Contributor License Agreement (coming soon)
 
 Agree to trademark usage terms
 
-##  Roadmap
+ Roadmap
  v1.0: Public RFC + Dev tools
 
  v1.1: Community License release
 
  v2.0: Edge AI agent simulation support
 
-##  Support
+ Support
 Questions? Feedback?
 → support@ipbridge.co
 
-## ™ Trademark Policy
+™ Trademark Policy
 Gemini™ is a trademark registered in Canada and protected under international treaties via the Madrid Protocol.
 
 Unauthorized use or "passing off" will be legally enforced.
 
 © 2025 Empire Bridge Media Inc. All rights reserved.
-
-
