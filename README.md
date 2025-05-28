@@ -36,7 +36,7 @@ from gemini import AgentCore
 agent = AgentCore(memory="sqlite", swarm_id="test_swarm")
 agent.run()
 
-
+```
 Full developer docs, APIs, and tutorials are coming soon.
 
 Protocol Specification
