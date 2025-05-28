@@ -1,6 +1,6 @@
 
 ```
-# Trademark Policy for Gemini™
+## Trademark Policy for Gemini™
 
 **Gemini™** is a registered trademark of Empire Bridge Media Inc. and is protected under the Canadian Trademarks Act and international treaties including the Madrid Protocol.
 
@@ -32,5 +32,4 @@ For licensing or commercial use inquiries:
  licensing@ipbridge.co
 ```
 
----
 
