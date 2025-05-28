@@ -19,7 +19,8 @@ Gemini™ enables the creation of next-generation agentic systems that:
 
 This repository supports the reference specification:  
 **`RFC-GEMINI-0001: Gemini Protocol for Agentic Cognition and Swarm Autonomy`**  
-> *(Coming soon to `/specs/`) — RFC defines system architecture, message structure, agent orchestration, and protocol versioning.*
+> *([RFC-GEMINI-0001 Specification](./specs/RFC-GEMINI-0001.md)
+`) — RFC defines system architecture, message structure, agent orchestration, and protocol versioning.*
 
 ---
 
