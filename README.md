@@ -27,7 +27,7 @@ This repository supports the reference specification:
 
 > **Gemini™** is a registered trademark filed with the **Canadian Intellectual Property Office (CIPO)** by **Empire Bridge Media Inc.**  
 > Unauthorized commercial use of the Gemini™ brand or affiliated protocol terminology is prohibited and may result in enforcement.  
-> For licensing or certification inquiries, contact: `licensing@empirebridgemedia.com`
+> For licensing or certification inquiries, contact: `licensing@ipbridge.co`
 
 ---
 
