@@ -1,53 +1,51 @@
-## Gemini™ Community License (Academic & OSS Use)
+## Gemini™ Community License (Academic and OSS Use)
 
-**Version 1.0**  
 Effective Date: 2025-05-28  
-Copyright © 2025 Empire Bridge Media Inc.
+Issued by: Empire Bridge Media Inc.
 
 ---
 
-### 1. Grant of License
-This license permits **non-commercial** use of the Gemini™ Protocol, specifications, and reference implementations **for academic research, education, and open-source projects** under the conditions outlined below.
+### 1. Purpose
+This license grants academic institutions, independent researchers, and open-source contributors the right to use the Gemini™ protocol for non-commercial purposes under specific conditions.
 
 ---
 
-### 2. Conditions
-To use Gemini™ materials under this license, you must:
-- Clearly cite the source:
+### 2. Grant of Rights
+Under this license, you are granted:
+- The right to use the Gemini™ protocol and its reference implementation for research, academic teaching, and non-commercial open-source contributions.
+- The right to fork, modify, and extend the code under the MIT License.
+
+---
+
+### 3. Conditions
+You must comply with all of the following:
+- Proper attribution in all software, documentation, and academic papers:
   > "Built with the Gemini™ Protocol (Empire Bridge Media Inc., 2025)"
-- Include the ™ symbol on first reference to Gemini™.
-- Maintain the original LICENSE and TRADEMARK.md files.
+- No commercial use (e.g., product integration, resale, consulting, or cloud deployment) without a commercial license.
+- No rebranding of the protocol, model name, or terminology.
+- All implementations must remain RFC-compliant if publicly released.
 
 ---
 
-### 3. Restrictions
-You **may not**:
-- Use Gemini™ in any commercial product or monetized service.
-- Register any trademarks that are confusingly similar.
-- Fork and rebrand the protocol for public use.
-- Represent your project as officially certified without written permission.
+### 4. Certification Eligibility
+Projects under this license may qualify for official Gemini™ certification and interoperability testing. Contact: `certify@ipbridge.co`
 
 ---
 
-### 4. Certification & Upgrades
-Projects seeking Gemini™ Certification must:
-- Pass RFC-GEMINI-0001 compliance validation.
-- Apply for a Gemini™ Certification License via `licensing@ipbridge.co`.
+### 5. Termination
+Empire Bridge Media Inc. reserves the right to revoke this license if:
+- The terms are violated.
+- Use is determined to be commercial in nature.
+- Trademark infringement or misrepresentation occurs.
 
 ---
 
-### 5. Enforcement
-Violations will result in:
-- License revocation
-- DMCA takedowns
-- Trademark opposition proceedings
+### 6. Legal
+This license does not convey any rights to use the Gemini™ name, logo, or derivative branding in commercial offerings. For commercial inquiries, email: `licensing@ipbridge.co`
+
+Use of this license constitutes acceptance of these terms.
 
 ---
 
-### 6. Contact
-Empire Bridge Media Inc.  
-For license upgrades or inquiries: `licensing@ipbridge.co`
-
----
-
-**This license is designed to empower academic innovation while preserving the commercial and semantic integrity of the Gemini™ Protocol.**
+Copyright © 2025 Empire Bridge Media Inc.  
+All rights reserved.
