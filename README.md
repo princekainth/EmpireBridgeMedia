@@ -47,4 +47,4 @@ Empire Bridge Media Inc. welcomes strategic collaborations, research partnership
 
 ---
 **Trademark Notice:**
-EMPIRE BRIDGE MEDIA INC.™, Eidos Protocol™, EIDOS SDK™, GEMINI™, Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™, [Your MS-Parallel Brand Name]™, and [Your Meta-Parallel Brand Name]™ are trademarks of Empire Bridge Media Inc. All rights reserved.
+EMPIRE BRIDGE MEDIA INC.™, Eidos Protocol™, EIDOS SDK™, GEMINI™, Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™, are trademarks of Empire Bridge Media Inc. All rights reserved.
