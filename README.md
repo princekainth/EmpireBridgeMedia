@@ -15,7 +15,7 @@ Empire Bridge Media Inc. operates a diverse portfolio of AI brands, each serving
 * ### **Eidos Protocol™**
     * **Focus:** The **constitution of machine intelligence**. The foundational protocol for agentic cognition, memory, orchestration, and self-evolution. This is our core commitment to defining AGI's fundamental rules.
     * **Key IP:** Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™.
-    * **Explore the Eidos Protocol SDK:** [Link to your `princekainth/eidos-sdk` GitHub repository URL here]
+    * **Explore the Eidos Protocol SDK:** .https://github.com/princekainth/eidos_sdk
 
 * ### **GEMINI™**
     * **Focus:** Autonomous intelligence for action. This brand is strategically positioned to provide practical, deployable AI systems for autonomous decision-making, real-time task automation, and multimodal input analysis.
