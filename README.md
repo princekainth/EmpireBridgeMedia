@@ -4,7 +4,7 @@
 
 ## Our Vision: Encoding Tomorrow's Law
 
-We believe that true control over the future of AGI lies in owning not just products, but the **linguistic and operational foundations** upon which all intelligent systems are built. Our mission is to become **the unseen governance layer of AGI**—where every advanced AI system, whether from established giants or emerging startups, must ultimately **speak in our terms, comply with our protocols, and respect our ethical constraints.**
+We believe that true control over the future of AGI lies in owning not just products, but the **linguistic and operational foundations** upon which all intelligent systems are built. Our mission is to become **the unseen governance layer of AGI**—where every advanced AI system, whether from established giants or emerging startups, must ultimately **speak in our terms, comply with our protocols, and respect our ethical constraints**.
 
 Just as fundamental protocols like TCP/IP define the internet, Empire Bridge Media Inc. is encoding the very constitution of machine intelligence.
 
@@ -15,19 +15,19 @@ Empire Bridge Media Inc. operates a diverse portfolio of AI brands, each serving
 * ### **Eidos Protocol™**
     * **Focus:** The **constitution of machine intelligence**. The foundational protocol for agentic cognition, memory, orchestration, and self-evolution. This is our core commitment to defining AGI's fundamental rules.
     * **Key IP:** Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™.
-    * **Explore the Eidos Protocol SDK:** .https://github.com/princekainth/eidos_sdk
+    * **Explore the Eidos Protocol SDK:** [Link to your `https://github.com/princekainth/eidos_sdk` GitHub repository URL here]
 
 * ### **GEMINI™**
     * **Focus:** Autonomous intelligence for action. This brand is strategically positioned to provide practical, deployable AI systems for autonomous decision-making, real-time task automation, and multimodal input analysis.
     * **Strategic Play:** A direct, high-visibility engagement with the market, asserting presence in a highly competitive and branded domain.
-    * **Explore the GEMINI AI SDK:** [Link to your `princekainth/gemini-ai-sdk` GitHub repository URL here]
+    * **Explore the GEMINI AI SDK:** [Link to your `https://github.com/princekainth/gemini-ai-sdk` GitHub repository URL here]
 
 * ### **MICROSOFT™**
     * **Focus:** [Briefly describe its unique focus - e.g., Enterprise-grade AI, Quantum-optimized computing, secure government AI solutions, AI-powered developer tools, productivity frameworks.]
     * **Strategic Play:** [Explain its specific role in your multi-brand strategy, e.g., targeting a specific market segment, leveraging unique technology.]
     * **Explore the [Brand Name] SDK/Project:** [Link to its future GitHub repository URL here]
 
-* ### **[META™**
+* ### **META™**
     * **Focus:** [Briefly describe its unique focus - e.g., Embodied AI, Metaverse integration, neuroadaptive interfaces, decentralized trust architectures for digital personas.]
     * **Strategic Play:** [Explain its specific role, e.g., pioneering human-AI interaction in virtual worlds, establishing trust for digital entities.]
     * **Explore the [Brand Name] SDK/Project:** [Link to its future GitHub repository URL here]
@@ -47,4 +47,4 @@ Empire Bridge Media Inc. welcomes strategic collaborations, research partnership
 
 ---
 **Trademark Notice:**
-EMPIRE BRIDGE MEDIA INC.™, Eidos Protocol™, EIDOS SDK™, GEMINI™, Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™, are trademarks of Empire Bridge Media Inc. All rights reserved.
+EMPIRE BRIDGE MEDIA INC.™ is a trademark of Empire Bridge Media Inc. All rights reserved. Other brands and terms mentioned herein, including Eidos Protocol™, GEMINI™, Memetic Kernel™, Agent Spawning™, Swarm Protocol™, Recursive Autonomy™, Neurostack™, are also trademarks of Empire Bridge Media Inc.
